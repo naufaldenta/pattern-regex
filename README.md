@@ -95,7 +95,7 @@ true
 ## ❗NOTE
 
 thank you for using this library, if you want to contribute, you can directly visit the github
-[repository]()
+[repository](https://github.com/naufaldenta/pattern-regex)
 
 ## 🤔 found any bugs or errors?
 
